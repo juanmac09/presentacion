@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin-top: 240px;
+    background-color: #516094;
+}
+p{
+    font-family: 'Dosis', sans-serif;
+}
+.img{
+   
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.info{
+    
+    width: 50%;
+    height: 500px;
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.in{
+    margin-right: 20%;
+}
+.re{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px 
+}
+.dato{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px ;
+    border:5px solid black ;
+    columns: 2;
+    padding: 15Px;
+}
+.da{
+    margin-top: 20px;
+}
+.pa{
+    margin-left: 27%;
+}
+.ti{
+    
+    font-weight: bold;
+}
+.red{
+    width: 5%;
+    height: 50px;
+    margin-left: 20px;
+    transition: all 0.2s;
+}
+.img2{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px ;
+}
+.red:hover{
+    width: 5.8%;
+    height: 52px;
+}
+
+.nom{
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 25px;
+    margin-right: 25px ;
+    font-family: 'Fugaz One', cursive;
+
+    
+}
+.titu{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-right: 25px ;
+    font-family: 'Fugaz One', cursive;
+}
+.pro{
+    width: 40%;
+    height: 500px;
+    margin-left: 25%;
+}
